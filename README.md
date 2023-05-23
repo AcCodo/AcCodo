@@ -1,9 +1,9 @@
 [![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=accodo&count_private=true&theme=transparent&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=accodo&layout=compact&langs_count=6&theme=transparent&hide=ShaderLab,CMake,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AcCodo/AcCodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accodo&layout=compact&langs_count=7&theme=onedark"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
